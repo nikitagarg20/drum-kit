@@ -1,0 +1,35 @@
+body{
+    text-align: center;
+    background-image: url("bg.jpg");
+    background-position: center;
+    background-size: cover;
+    margin:0%;
+    padding: 0%;
+}
+
+.head{
+    font-size: 2rem;
+    color: rgb(255, 255, 255);
+    background-color: black;
+}
+
+.keys{
+    margin: 20%  auto;
+}
+.btn{
+    font-size: 3rem;
+    padding: 10px;
+    margin: auto 10px;
+    width: 10%;
+    height: 50%;
+    border-radius: 70px;
+    background-color: rgb(222, 221, 135);
+    border: 5px solid sienna;
+
+}
+
+.btn:hover{
+    opacity: 0.7;
+    box-shadow: 0px 0px 0px 3px white;
+
+}
